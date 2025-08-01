@@ -2,7 +2,9 @@
 
 A curated collection of **JavaScript interview questions** and **coding exercises** with solutions.
 
-![JavaScript Interview Questions](https://img.shields.io/badge/JavaScript-Interview%20Questions-blue.svg)
+![JavaScript Interview Questions](https://raw.githubusercontent.com/rohitash-eng/javascript-interview-questions-answers/refs/heads/main/public/images/Screenshot%202025-07-29%20at%2012.19.36%E2%80%AFPM.png)
+
+![JavaScript Interview Questions](https://raw.githubusercontent.com/rohitash-eng/javascript-interview-questions-answers/refs/heads/main/public/images/javascript.png)
 ---
 
 ### 📌 Introduction
@@ -28,7 +30,7 @@ You can run these exercises either in a browser console, any online JavaScript e
 Node version v18.16.0+
 Npm version 9.5.0+
 
-git clone https://github.com/your-username/javascript-interview-question.git
+git clone https://github.com/rohitash-eng/javascript-interview-questions-answers.git
 cd javascript-interview-question
 
 node src/javascript-interview-question/FILE_NAME.js
@@ -40,9 +42,8 @@ node src/javascript-interview-question/array-methods.js
 ## 🧑‍💻 Author
 
 **Rohitash Singh**  
-Frontend Developer | Javascript Developer | Rohitash Singh
 
----
+Frontend Developer | Javascript Developer | Rohitash Singh
 
 ## 📜 License
 
