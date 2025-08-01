@@ -42,8 +42,8 @@ node src/javascript-interview-question/array-methods.js
 ## 🧑‍💻 Author
 
 **Rohitash Singh**  
-Frontend Developer | Javascript Developer | Yashpal chaudhary
----
+
+Frontend Developer | Javascript Developer | Rohitash Singh
 
 ## 📜 License
 
