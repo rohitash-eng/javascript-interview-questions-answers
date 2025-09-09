@@ -1,4 +1,4 @@
-function countLetters(str) {
+function lettersPositionCount(str) {
     let coutString = {};
     for(let i=0; i<str.length; i++) {
         if(!coutString[str[i]]){
@@ -8,4 +8,4 @@ function countLetters(str) {
     }
     return coutString;
 }
-console.log(countLetters("rohitashRohitash"));
+console.log(lettersPositionCount("rohitashRohitash"));
